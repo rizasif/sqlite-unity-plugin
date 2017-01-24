@@ -1,6 +1,6 @@
-# sqlite-android-unity-plugin
+# sqlite-unity-plugin
 
-This plugin can be used to access sqlite database for unity projects in android phones. 
+This plugin can be used to access sqlite database for unity projects in android and iOS devices. 
 
 Copy paste the Plugins folder in the Assets folder of your project and follow the points below to access your database in c#.
 
