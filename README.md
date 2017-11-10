@@ -2,7 +2,7 @@
 
 This plugin can be used to access sqlite database for unity projects in android and iOS devices. 
 
-Copy paste the Plugins folder in the Assets folder of your project and follow the points below to access your database in c#.
+Copy paste the Plugins folder in the Assets folder of your project (or copy paste the contents into your existsing Plugins folder) and follow the points below to access your database in c#.
 
 1) Import the correct namespaces.
 ```
