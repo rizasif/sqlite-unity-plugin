@@ -32,3 +32,6 @@ string q_createTable =
 dbcmd.CommandText = q_createTable;
 reader = dbcmd.ExecuteReader();
 ```
+
+# Sample
+A Unity implementation of this plugin can be found [here](https://github.com/rizasif/sqlite-unity-plugin-example).
