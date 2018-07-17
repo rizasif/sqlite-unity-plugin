@@ -35,3 +35,6 @@ reader = dbcmd.ExecuteReader();
 
 # Sample
 A Unity implementation of this plugin can be found [here](https://github.com/rizasif/sqlite-unity-plugin-example).
+
+# Tutorial
+Read this [artcle on medium](https://medium.com/@rizasif92/sqlite-and-unity-how-to-do-it-right-31991712190) for more details.
